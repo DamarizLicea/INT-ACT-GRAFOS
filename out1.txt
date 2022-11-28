@@ -1,0 +1,11 @@
+INPUT   1: 2portd not reachable from port Balboawith mndp: 2.
+INPUT   2: 0portd not reachable from port Ambarliwith mndp: 6.
+INPUT   3: 7portd not reachable from port Balboawith mndp: 1.
+INPUT   4: 0portd not reachable from port Chennaiwith mndp: 7.
+INPUT   5: 0portd not reachable from port Algeciraswith mndp: 4.
+INPUT   6: 2portd not reachable from port Cartagenawith mndp: 2.
+INPUT   7: 0portd not reachable from port Ambarliwith mndp: 9.
+INPUT   8: 0portd not reachable from port Chennaiwith mndp: 4.
+INPUT   9: 0portd not reachable from port Alexandriawith mndp: 4.
+INPUT   10: 0portd not reachable from port Barcelonawith mndp: 4.
+INPUT   11: 0portd not reachable from port Balboawith mndp: 4.
